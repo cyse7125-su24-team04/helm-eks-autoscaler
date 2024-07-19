@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/cyse7125-su24-team04/helm-eks-autoscaler/compare/v1.0.1...v1.0.2) (2024-07-19)
+
+
+### Bug Fixes
+
+* Added Jenkinfile ([d5a5d4e](https://github.com/cyse7125-su24-team04/helm-eks-autoscaler/commit/d5a5d4e0fcbe0668147f143ae39d8a05b93ed154))
+
 ## [1.0.1](https://github.com/cyse7125-su24-team04/helm-eks-autoscaler/compare/v1.0.0...v1.0.1) (2024-07-19)
 
 
